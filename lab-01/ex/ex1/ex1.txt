@@ -1,0 +1,114 @@
+=======================================================
+=======================================================
+
+your name is Huynh Sam Ha
+
+=======================================================
+=======================================================
+
+System Information
+-------------------------------------------------------
+=======================================================
+
+Kernel name		: Linux
+Kernel release		: 4.13.0-26-generic
+Kernel version		: #29~16.04.2-Ubuntu SMP Tue Jan 9 22:00:44 UTC 2018
+Machine			: x86_64
+Processor		: x86_64
+Hardware		: x86_64
+Operator 		: GNU/Linux
+
+-------------------------------------------------------
+
+
+Current user: huynhsamha
+-------------------------------------------------------
+
+Current time: Thứ bảy, 27 Tháng một năm 2018 19:27:16 +07
+-------------------------------------------------------
+
+=======================================================
+
+Memory:
+-------------------------------------------------------
+
+              total        used        free      shared  buff/cache   available
+Mem:        8057444     1968712     3313696      953132     2775036     4766984
+Swap:      15999996           0    15999996
+=======================================================
+
+Disk space:
+-------------------------------------------------------
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3,9G     0  3,9G   0% /dev
+tmpfs           787M  9,7M  778M   2% /run
+/dev/sda9        54G   29G   23G  56% /
+tmpfs           3,9G  627M  3,3G  16% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop0       16M   16M     0 100% /snap/heroku/1527
+/dev/loop1       84M   84M     0 100% /snap/core/3748
+/dev/loop2       82M   82M     0 100% /snap/core/3887
+/dev/sda2        96M   29M   68M  30% /boot/efi
+tmpfs           787M     0  787M   0% /run/user/1001
+tmpfs           787M   92K  787M   1% /run/user/1000
+=======================================================
+
+Network:
+-------------------------------------------------------
+
+enp2s0    Link encap:Ethernet  HWaddr 98:e7:f4:12:5d:fd  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2490 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2490 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:269961 (269.9 KB)  TX bytes:269961 (269.9 KB)
+
+wlo1      Link encap:Ethernet  HWaddr 54:8c:a0:bc:04:a9  
+          inet addr:192.168.1.11  Bcast:192.168.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::f332:3b80:7ae7:2176/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:13309 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11148 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:15118192 (15.1 MB)  TX bytes:1927131 (1.9 MB)
+
+=======================================================
+
+CPU information-------------------------------------------------------
+
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 78
+Model name:            Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+Stepping:              3
+CPU MHz:               2600.000
+CPU max MHz:           3100,0000
+CPU min MHz:           400,0000
+BogoMIPS:              5184.00
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              4096K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
